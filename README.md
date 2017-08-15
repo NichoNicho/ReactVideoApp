@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/NichoNicho/ReactVideoApp.git
-> cd ReduxStarter
+> cd ReactVideoApp
 > npm install
 > npm start
 ```
